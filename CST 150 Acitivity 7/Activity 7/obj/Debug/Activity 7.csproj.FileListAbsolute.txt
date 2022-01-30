@@ -1,0 +1,11 @@
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\bin\Debug\Activity 7.exe.config
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\bin\Debug\Activity 7.exe
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\bin\Debug\Activity 7.pdb
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.csproj.AssemblyReference.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity_7.ApproximatePi.resources
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity_7.Properties.Resources.resources
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.csproj.GenerateResource.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.csproj.CoreCompileInputs.cache
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.exe
+C:\Users\kevre\OneDrive\Desktop\CST 150 Acitivity 7\Activity 7\obj\Debug\Activity 7.pdb
